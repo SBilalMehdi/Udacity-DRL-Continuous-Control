@@ -71,6 +71,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 | File Name             | Description                                                                    |
 |-----------------------|--------------------------------------------------------------------------------|
+| agent.pt    | Trained DDPG agent|
 | Continuous_Control.ipynb    | Main file that trains a DDPG agent|
 | Readme.md    | This readme |
 | Report.pdf    | A short report on the project |
